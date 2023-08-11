@@ -19,6 +19,7 @@ About APP:
 Requirenments: Docker
 
 How to run: 
-In root folder type into terminal:  - docker-compose up -d --build
-                                    - go on http://localhost:8080/parse-services
-                                    - additionaly you can setup Kibana to check ES index or any other service
+In root folder type into terminal: 
+- docker-compose up -d --build
+- go on http://localhost:8080/parse-services
+- additionaly you can setup Kibana to check ES index or any other service
