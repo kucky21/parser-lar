@@ -75,5 +75,7 @@ class FoxEntryParserService
 
             $elasticsearchClient->index($params);
         }
+        //uncomment for data check - debug
+        //var_dump($params);
     }
 }
